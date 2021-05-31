@@ -1,3 +1,5 @@
 Hola me llamo Pedro
 
 Estoy practicando git
+
+Soy estudiante de Platzi
